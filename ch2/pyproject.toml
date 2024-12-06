@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ch2"
+version = "0.1.0"
+description = ""
+authors = ["Conrad Owen <conrad.b.owen@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tiktoken = "^0.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
