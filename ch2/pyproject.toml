@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-tiktoken = "^0.8.0"
+tiktoken = "^0.7.0"
 
 
 [build-system]
